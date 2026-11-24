@@ -2,7 +2,7 @@
 
 <p align="center">
   Founding Engineer @ Northhaven Analytics | AI/ML @ Bosch | Founder @ Aiegio, the context layer for AI<br>
-  Research in context databases | Co-creator of SGHappka
+  Research in context databases | Co-creator of SGHappka | Student @ SGH Warsaw School of Economics
 </p>
 
 <p align="center">
@@ -28,7 +28,7 @@ Python pipelines and neural networks for pattern recognition, clustering and sta
 
 Aiegio is first of all about context. It connects a company's projects, decisions, documents and past conversations, and gives Claude, ChatGPT and AI agents what they need for a task over MCP: search across all of it, per-person access and evaluations of whether the agent got the right context.
 
-On the same platform: one company account for Claude, GPT and Gemini, with access control, budgets per department and an activity log. [Aiegio Steer](https://steer.aiegio.com) adds AI agents with shared project memory.
+On the same platform: one company account for Claude, GPT and Gemini, with access control, budgets per department and an activity log. [Aiegio Steer](https://steer.aiegio.com) (closed beta) adds AI agents with shared project memory.
 
 ## Things I have shipped
 
